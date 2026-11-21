@@ -1,0 +1,8 @@
+{
+  "name": "ComplianceOS",
+  "description": "AI-native regulatory compliance operating system connecting regulatory changes to applicability, obligations, controls, remediation, evidence, verification, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
